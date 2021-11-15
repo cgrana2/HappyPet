@@ -1,5 +1,5 @@
 package happypet;
-
+//Hola mundo 
 public class ColaUsuarios {
 
     NodoUsuarios raiz, fondo;
